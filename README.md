@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poromer&show_icons=true&theme=tokyonight&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poromer&layout=compacttheme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poromer&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
