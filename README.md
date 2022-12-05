@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poromer&show_icons=true&theme=tokyonight&bg_color=00000000)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Poromer&theme=tokyonight&bg_color=00000000&date_format=j%20M%5B%20Y%5D&fire=EE8439)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Poromer&date_format=j%20M%5B%20Y%5D&fire=EE8439&theme=tokyonight&bg_color=00000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poromer&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
